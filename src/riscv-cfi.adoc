@@ -1,4 +1,4 @@
-= RISC-V Shadow Stacks and Landing Pads
+= -DEPRECATED- RISC-V Shadow Stacks and Landing Pads
 :description: RISC-V Shadow-stack and Landing-pads Task Group
 :company: RISC-V.org
 :revdate: 06/2024
@@ -36,11 +36,17 @@ endif::[]
 :xrefstyle: short
 
 [WARNING]
-.This document is in the link:http://riscv.org/spec-state[Ratified state]
-====
-No changes are allowed. Any desired or needed changes can be the subject of a
-follow-on new extension. Ratified extensions are never revised.
-====
+*DEPRECATED:* This specification is integrated into the Priv. and Unpriv. specifications. This repo is no
+longer maintained. Please refer to the Priv. and Unpriv. specifications at
+https://github.com/riscv/riscv-isa-manual
+
+
+// [WARNING]
+// .This document is in the link:http://riscv.org/spec-state[Ratified state]
+// ====
+// No changes are allowed. Any desired or needed changes can be the subject of a
+// follow-on new extension. Ratified extensions are never revised.
+// ====
 
 [preface]
 == Copyright and license information
